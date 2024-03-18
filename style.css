@@ -1,0 +1,11 @@
+p{
+    color:orange
+}
+
+ol{
+color:#304090;
+list-style-type: hiragana;
+background-color:rgb(228, 228, 228); 
+            width: 180px;
+            height: 180px;
+}
